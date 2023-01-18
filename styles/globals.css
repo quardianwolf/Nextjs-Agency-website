@@ -10304,3 +10304,17 @@ figcaption {
   fill: #fff;
   stroke: #fff;
 }
+
+@media screen and (max-width: 578px){
+  .shape{
+   display: none;
+  }
+  .shape_misyon{
+    z-index: -1;
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    right: 38px;
+    opacity: 0.3;
+  }
+}
