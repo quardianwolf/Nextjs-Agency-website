@@ -1,6 +1,6 @@
 import React from "react";
 
-import Hero from "./Hero";
+import Hero from "./hero";
 import About from "./about";
 import Whatwedo from "./whatwedo";
 import Projects from "./projects";
