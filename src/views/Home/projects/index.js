@@ -67,7 +67,7 @@ const index = () => {
                           <img
                             src="https://assets.website-files.com/63661389dd2417776f0d89fb/6369faf5dae2e9aa748edeaa_project-01.webp"
                             loading="lazy"
-                            alt=""
+                            alt="aa"
                             sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, (max-width: 991px) 39vw,
                             (max-width: 1439px) 56vw, 59vw"
                             srcSet="https://assets.website-files.com/63661389dd2417776f0d89fb/6369faf5dae2e9aa748edeaa_project-01-p-500.webp 500w,
@@ -129,7 +129,7 @@ const index = () => {
                           <img
                             src="https://assets.website-files.com/63661389dd2417776f0d89fb/6369fae804b5b0ea36ed1d10_project-02.webp"
                             loading="lazy"
-                            alt=""
+                            alt="aa"
                             sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, (max-width: 991px) 39vw,
                             (max-width: 1439px) 25vw, 27vw"
                             srcSet="https://assets.website-files.com/63661389dd2417776f0d89fb/6369fae804b5b0ea36ed1d10_project-02-p-500.webp 500w,
@@ -180,7 +180,7 @@ const index = () => {
                           <img
                             src="https://assets.website-files.com/63661389dd2417776f0d89fb/6369fadaaa89f63186350b73_project-03.webp"
                             loading="lazy"
-                            alt=""
+                            alt="aa"
                             sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, (max-width: 991px) 39vw, (max-width: 1439px) 25vw, 27vw"
                             srcSet="https://assets.website-files.com/63661389dd2417776f0d89fb/6369fadaaa89f63186350b73_project-03-p-500.webp 500w,
                             https://assets.website-files.com/63661389dd2417776f0d89fb/6369fadaaa89f63186350b73_project-03-p-800.webp 800w,
@@ -229,7 +229,7 @@ const index = () => {
                         <img
                           src="https://assets.website-files.com/63661389dd2417776f0d89fb/6369fab6fb2692808936e774_project-04.webp"
                           loading="lazy"
-                          alt=""
+                          alt="aa"
                           sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, (max-width: 991px) 39vw, (max-width: 1439px) 25vw, 27vw"
                           srcSet="https://assets.website-files.com/63661389dd2417776f0d89fb/6369fab6fb2692808936e774_project-04-p-500.webp 500w,
                           https://assets.website-files.com/63661389dd2417776f0d89fb/6369fab6fb2692808936e774_project-04-p-800.webp 800w,
@@ -279,7 +279,7 @@ const index = () => {
                         <img
                           src="https://assets.website-files.com/63661389dd2417776f0d89fb/6369faafe81233326efbe2c5_project-05.webp"
                           loading="lazy"
-                          alt=""
+                          alt="aa"
                           sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, (max-width: 991px) 39vw, (max-width: 1439px) 25vw, 27vw"
                           srcSet="https://assets.website-files.com/63661389dd2417776f0d89fb/6369faafe81233326efbe2c5_project-05-p-500.webp 500w,
                           https://assets.website-files.com/63661389dd2417776f0d89fb/6369faafe81233326efbe2c5_project-05-p-800.webp 800w,

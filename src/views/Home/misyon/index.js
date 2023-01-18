@@ -57,7 +57,7 @@ const index = () => {
                   </div>
                   <div id="w-node-afed07bc-83f3-db0a-2dee-a7bd0e4526f4-6f0d89d5">
                   <div className="shape_misyon">
-                    <img src="logo.png" />
+                    <img src="logo.png" alt="logo" />
                   </div>
                     <div className="margin-bottom margin-xsmall">
                       <h3 className="text-uppercase">Innovation</h3>

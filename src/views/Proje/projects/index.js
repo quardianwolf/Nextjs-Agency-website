@@ -73,7 +73,7 @@ const index = () => {
                       ><img
                         src=""
                         loading="lazy"
-                        alt=""
+                        alt="aa"
                         sizes="(max-width: 479px) 92vw, (max-width: 767px) 87vw, (max-width: 991px) 88vw, (max-width: 1439px) 59vw, 62vw"
                         srcSet="blog3.webp"
                         className="image-cover"
