@@ -1,6 +1,6 @@
 import React from 'react'
 import Form from './form'
-import Sorular from './forular'
+import Sorular from './sorular'
 
 const contactPage = () => {
   return (
